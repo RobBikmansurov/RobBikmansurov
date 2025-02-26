@@ -1,7 +1,8 @@
 ### Hi there 👋
- As a cool IT professional with extensive experience in system development, I was the CIO, the team lead and the system architect, I have been solving business problems through information technology for many years. I have experience of managing a team.
- 
- Now I'm open to interesting remote work (relocation is also possible) in a small cool team in complex projects with advanced processes as a Ruby backend developer.
+I am interested in remote work in complex projects as a Ruby backend developer - monoliths or microservices, refactoring, AI integration, business pain solution.
+
+I have been solving business problems using information technology for many years. I have extensive experience in team management.
+
 <!--
 **RobBikmansurov/RobBikmansurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
